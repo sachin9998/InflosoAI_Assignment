@@ -18,6 +18,7 @@ This application provides login and signup functionality for a fictional music s
 *   **Backend:** Node.js, Express.js
 *   **Database:**  MongoDB
 *   **Authentication:** JWT (jsonwebtoken)
+*   **Password Hashing: Bcryptjs
 
 ## Features
 
